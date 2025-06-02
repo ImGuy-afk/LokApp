@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.LocationApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Tambahkan customisasi jika perlu -->
+    </style>
+</resources>
